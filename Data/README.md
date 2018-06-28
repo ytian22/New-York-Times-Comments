@@ -1,1 +1,1 @@
-This contains data used for modeling
+Please find the data at https://www.kaggle.com/aashita/nyt-comments
